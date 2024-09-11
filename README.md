@@ -1,6 +1,6 @@
 
-#Login Username: admin
-#Login Password: password
+<b>Login Username: admin </b><br />
+<b>Login Password: password</b>
 
 ## Getting Started
 
