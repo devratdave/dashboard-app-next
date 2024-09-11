@@ -1,6 +1,6 @@
 
-Login Username: admin
-Login Password: password
+#Login Username: admin
+#Login Password: password
 
 ## Getting Started
 
